@@ -7,7 +7,7 @@ O sistema é dividido em quatro seções principais: Dashboard, Receitas e Despe
 - Dashboard
   - Resumo das finanças do usuário: total de receitas, total de despesas, saldo atual.
   - Acompanhamento das metas financeiras, com percentual de progresso.
-
+     
 - Receitas  
   - Cadastrar novas receitas.
   - Visualizar histórico completo de receitas.
