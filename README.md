@@ -61,7 +61,7 @@ frontend/
 - Sugestões automáticas de contribuição para atingir metas mais rapidamente.
 
 ## 📹 Link do vídeo
-- 
+- https://www.youtube.com/watch?v=ToqmRBFuGY0
        
 ## 👨‍💻 Integrantes do Grupo
 
