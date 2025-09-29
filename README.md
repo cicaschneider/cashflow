@@ -47,11 +47,10 @@ frontend/
 ```
 
 ## 🛠 Como rodar o projeto
-
-1. Clone este repositório:
-   ```
-   git clone <https://github.com/cicaschneider/cashflow.git>
-   ```
+- Arquivo "Passo a Passo" disponível para baixar junto com o projeto
+  ````
+  git clone https://github.com/cicaschneider/cashflow.git
+  ````
 ## 🚀 Futuras Melhorias
 
 - Cadastrar novas metas financeiras.
